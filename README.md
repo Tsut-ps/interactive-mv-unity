@@ -1,5 +1,8 @@
 # もう、とけた。
 
+![image](https://github.com/user-attachments/assets/ae3b6502-6a32-4c28-ba15-67cd7895b2df)
+
+
 [「もう、溶けた。」 - Mealerrand より](https://www.youtube.com/watch?v=GRR_35gxZho)  
 
 いつの日かのプロトタイプ「もう、とけた。」  
@@ -43,7 +46,7 @@ Webページは動かせる。
 ![image](https://github.com/user-attachments/assets/7234b279-1471-412c-9f66-035c6de10c19)
 
 
-## 苦労・工夫
+## 苦労したところ / 工夫したところ
 
 - 90%はC#とUnityの仕様に困惑した (URPとBP)
 - 操作感上の問題からVSCodeで開発した  
